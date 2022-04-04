@@ -8,7 +8,8 @@ Pos graduated in business management and business intelligence, marketing analys
 
 
 
-![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomaniaudet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) ![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact&langs_count=16&theme=dracula)
+![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomaniaudet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) 
+![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact&langs_count=16&theme=dracula)
 
 
 
