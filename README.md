@@ -1,7 +1,7 @@
 <!-- <img src="https://avatars.githubusercontent.com/u/62489393?s=400&u=6eb619abab51cb039f43c096956fab66cc625544&v=4"> -->
 
 ### Hi 👋
-Pos graduated in business management and business intelligence, marketing analyst and programmer.
+ 🎓 Pos graduated in business management and business intelligence, marketing analyst and programmer.
 
  💻 Solid knowledge in SQL and IBM Modeler SPSS. Acting in front of data analysis of evasion, renewal and retention. 
     Looking for alternatives to optimize revenue and improve the churn rate.
