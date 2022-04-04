@@ -12,6 +12,11 @@
    
  🔬 Learning nodejs for building complex applications involving blockchain.
 
+<br>
+  📫 How to reach me: <a href="mailto: jmmegale@gmail.com">jmmegale@gmail.com</a>
+<br>
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joaomaniaudet)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/joao-mauricio-maniaudet-megale) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joaomaniaudet/) 
+
 
 
 ![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomaniaudet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) 
@@ -22,7 +27,7 @@
 
 
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joaomaniaudet)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/joao-mauricio-maniaudet-megale) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joaomaniaudet/) 
+
 
 
 
