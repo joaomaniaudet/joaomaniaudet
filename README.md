@@ -8,7 +8,7 @@ Pos graduated in business management and business intelligence, marketing analys
 
 
 ![YOUR github icons](https://github-readme-stats.vercel.app/api?username=joaomaniaudet)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&bg_color= #FFFFFF)
 
 
 
