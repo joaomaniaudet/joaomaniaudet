@@ -3,8 +3,12 @@
 ### Hi 👋
 Pos graduated in business management and business intelligence, marketing analyst and programmer.
 
-- Solid knowledge in SQL and IBM Modeler SPSS. Acting in front of data analysis of evasion, renewal and retention. 
-  Looking for alternatives to optimize revenue and improve the churn rate.
+ 💻 Solid knowledge in SQL and IBM Modeler SPSS. Acting in front of data analysis of evasion, renewal and retention. 
+    Looking for alternatives to optimize revenue and improve the churn rate.
+  
+  
+  
+  🔬 Learning nodejs for building complex applications involving blockchain
 
 
 
