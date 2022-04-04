@@ -7,8 +7,11 @@ Pos graduated in business management and business intelligence, marketing analys
   Looking for alternatives to optimize revenue and improve the churn rate.
 
 
-![YOUR github icons](https://github-readme-stats.vercel.app/api?username=joaomaniaudet)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomaniaudet&show_icons=true&theme=radical&bg_color=#ffffff)
+![YOUR github ](https://github-readme-stats.vercel.app/api?username=joaomaniaudet)
+![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomaniaudet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+
+
 
 
 
