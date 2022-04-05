@@ -22,18 +22,11 @@
     <a href="https://github.com/joaomaniaudet/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=joaomaniaudet&theme=react&border=61dafb&hide_border=true" alt=" " />
     </a>
-    <a href="https://github.com/joaomaniaudet/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=joaomaniaudet&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  
-  <div align=center>
     
-   ![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact&langs_count=16&theme=dracula)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact)](https://github.com/joaomaniaudet/github-readme-stats)
   </div>
+  <br><br><br>
+  
+
 
 <hr>
 
