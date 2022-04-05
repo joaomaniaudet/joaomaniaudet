@@ -28,7 +28,12 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   
-  ![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact&langs_count=16&theme=dracula)
+  <div align=center>
+    
+   ![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact&langs_count=16&theme=dracula)
+ 
+  </div>
+
 <hr>
 
 
