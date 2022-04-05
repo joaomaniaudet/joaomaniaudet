@@ -38,7 +38,7 @@
 
 <hr>
 
-![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact&langs_count=16&theme=dracula)
+![Joao Maniaudet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomaniaudet&layout=compact&langs_count=16&text_color=ffffff)
 
 
 
