@@ -5,8 +5,7 @@
  
  💻 Data analyst and programmer.
 
- ⚡ Solid knowledge in SQL and IBM Modeler SPSS. Acting in front of data analysis of evasion, renewal and retention. 
-    Looking for alternatives to optimize revenue and improve the churn rate.
+ ⚡ Acting in front of data analysis of evasion, renewal and retention. Looking for alternatives to optimize revenue and improve the churn rate.
     
  👨‍💻 Always looking to solve business problems with technological solutions.
    
