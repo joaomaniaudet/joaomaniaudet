@@ -3,7 +3,7 @@
 ### Hi 👋
  🎓 Post graduate in Business Management and Business Intelligence.
  
- 💻 Marketing analyst and programmer.
+ 💻 Senior Marketing Analyst and programmer.
 
  ⚡ Acting in front of data analysis of evasion, renewal and retention. Looking for alternatives to optimize revenue and improve the churn rate.
     
