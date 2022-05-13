@@ -1,7 +1,7 @@
 <!-- <img src="https://avatars.githubusercontent.com/u/62489393?s=400&u=6eb619abab51cb039f43c096956fab66cc625544&v=4"> -->
 
 ### Hi 👋
- 🎓 Post graduate in Business Management and Business Intelligence.
+ 🎓 Enginner, Post graduate in Business Management and Business Intelligence.
  
  💻 Senior Marketing Analyst and programmer.
 
