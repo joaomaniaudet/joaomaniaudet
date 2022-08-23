@@ -9,7 +9,7 @@
     
  👨‍💻 Always looking to solve business problems with technological solutions.
    
- 🔬 Learning nodejs for building complex applications involving blockchain. 
+
 
 <br>
 
