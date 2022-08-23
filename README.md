@@ -4,8 +4,6 @@
  🎓 Enginner, Post graduate in Business Management and Business Intelligence.
  
  💻 Senior Marketing Analyst and programmer.
-
- ⚡ Acting in front of data analysis of evasion, renewal and retention. Looking for alternatives to optimize revenue and improve the churn rate. General data structuring.
     
  👨‍💻 Always looking to solve business problems with technological solutions.
    
