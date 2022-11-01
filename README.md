@@ -3,12 +3,10 @@
 ### Hi 👋
  🎓 Enginner, Post graduate in Business Management and Business Intelligence.
  
- 💻 Senior Marketing Analyst and programmer.
+ 💻 Senior Analyst - Automation & Analytics
     
  👨‍💻 Always looking to solve business problems with technological solutions.
    
-
-
 <br>
 
 <!--[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joaomaniaudet)  -->
