@@ -3,7 +3,7 @@
 ### Hi 👋
  🎓 Enginner, Post graduate in Business Management and Business Intelligence.
  
- 💻 Senior Analyst - Automation & Analytics
+ 💻 Coordinator - Automation & Analytics
     
  👨‍💻 Always looking to solve business problems with technological solutions.
    
