@@ -3,7 +3,7 @@
 ### Hi 👋
  🎓 Enginner, Post graduate in Business Management and Business Intelligence.
  
- 💻 Coordinator - Applications & Automations
+ 💻 Data Engineer
     
  👨‍💻 Always looking to solve business problems with technological solutions.
    
